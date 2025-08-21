@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: red;
+    font-weight: bolder;
+}
+#first{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: aqua;
+    font-weight: bolder;
+}
+.second{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    background-color: yellow;
+    font-weight: bolder;
+}
+h1{
+    background-color: blueviolet;
+    font-weight: bolder;
+    text-align: center;
+    color: teal;
+}
+#third{
+    color: brown;
+    background-color: slategrey;
+    text-align: center;
+}
