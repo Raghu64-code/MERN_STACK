@@ -34,24 +34,35 @@ h1{
     background-color: aqua;
     height: 100px;
     width: 100px;
-    background-image: url(box1.jpg);
+    background-image: url(boxes.jpg);
+    /* visibility: hidden; */
+    text-align: center;
 
 }
 #box2{
     background-color: blue;
     height: 100px;
     width: 100px;
-    background-image: url(box1.jpg);
+    background-image: url(boxes.jpg);
+    text-align: default;
 
 }
 #box3{
     background-color: chartreuse;
     height: 100px;
     width: 100px;
-    background-image: url(box1.jpg);
+    background-image: url(boxes.jpg);
+    text-align: right;
 }
 .boxes{
     display: flex;
     flex-direction: row;
     gap: 50px;
 }
+/* body{
+    background-image: url(boxes.jpg);
+} */
+#link{
+    text-decoration: none;
+    cursor: pointer;
+} 
