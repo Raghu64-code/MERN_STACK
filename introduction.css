@@ -50,3 +50,8 @@ h1{
     width: 100px;
     background-image: url(box1.jpg);
 }
+.boxes{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
