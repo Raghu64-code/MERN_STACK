@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
 }
@@ -29,4 +29,24 @@ h1{
     color: brown;
     background-color: slategrey;
     text-align: center;
+} */
+#box1{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    background-image: url(box1.jpg);
+
+}
+#box2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    background-image: url(box1.jpg);
+
+}
+#box3{
+    background-color: chartreuse;
+    height: 100px;
+    width: 100px;
+    background-image: url(box1.jpg);
 }
