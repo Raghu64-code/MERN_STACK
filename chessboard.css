@@ -1,0 +1,26 @@
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+td {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.white {
+  background-color: #fff;
+}
+
+.black {
+  background-color: #000;
+}
+
+label {
+  font-size: 22px;
+  font-weight: bold;
+  color: aqua; 
+}
