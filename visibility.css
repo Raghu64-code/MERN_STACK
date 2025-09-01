@@ -1,0 +1,14 @@
+#first{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    margin-bottom: 10px;
+    visibility: hidden
+}
+
+#second{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(0, 255, 38);
+    
+}
